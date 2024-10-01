@@ -7,7 +7,6 @@ function showTitle(title) {
   heading.textContent = "Tab Title"
   result.textContent = title
   showTitleBtn.style.display = 'none'
-  console.log()
 }
 
 
