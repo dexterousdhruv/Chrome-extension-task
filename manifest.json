@@ -1,0 +1,10 @@
+{
+  "name": "Display Tab Title",
+  "description": "Displays the title of the current tab",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
